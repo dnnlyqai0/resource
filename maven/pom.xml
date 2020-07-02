@@ -11,7 +11,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<fastjson>1.2.58</fastjson>
 		<maven-source-plugin>3.0.0</maven-source-plugin>
-		<mysql-connector-java>5.1.36</mysql-connector-java>
+		<mysql-connector-java>8.0.16</mysql-connector-java>
 	</properties>
 
 	<dependencies>
